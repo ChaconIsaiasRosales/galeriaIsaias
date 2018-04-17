@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">galeriasIsaias</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="ImagenPrevia">ImagenPrevia</string>
+    <string name="galerydescription">Programacion lll</string>
+    <string name="register">register</string>
+    <string name="username">isaias</string>
+    <string name="password">password</string>
+    <string name="loggin">loggin</string>
+    <string name="registerandLogin">and Register</string>
+    <string name="registerandlogind">REGISTRARSE E INICIAR SESION</string>
+    <string name="loginerror">Sucedio un error al iniciar sesion, los campos estan vacios</string>
+    <string name="tryregister">No se encontro informacion para este usuario, intente registrarlo</string>
+    <string name="roll">Rol</string>
+    <string name="app_login">Iniciar Sesion</string>
+    <string name="app_register">Registrate</string>
+    <string name="usernamee">Usuario</string>
+    <string name="loogout">Cerrar Sesion</string>
+    <string name="nombre">nombre</string>
+    <string name="autor">autor</string>
+    <string name="guardar">guardar</string>
+    <string name="agregarimagen">agregarimagen</string>
+</resources>
